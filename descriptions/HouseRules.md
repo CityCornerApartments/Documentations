@@ -32,3 +32,19 @@ If you break these rules, we have the right to ask you to leave the premises wit
 12. Complimentary parking is available for guests. However, we cannot be held liable for any damages to vehicles.
 13. Out of respect for others, we kindly request that noise levels be kept to a minimum after 10 pm. Organizing house parties, bachelor or bachelorette farewell parties is strictly prohibited. Failure to comply with these rules may result in eviction from the premises without any refund.
 14. We reserve the right to cancel your reservation if you fail to adhere to the house rules. For matters not addressed in these rules, the Hungarian Civil Code shall prevail.
+
+## Additional Rules by ChatGPT
+
+Here are some additional rules that may be beneficial to include:
+
+18. It is the responsibility of guests to ensure the security of the apartment by properly locking all doors and windows when leaving the premises.
+19. Unauthorized subletting or transfer of the apartment to third parties is strictly prohibited.
+21. The apartment should be left in a reasonably clean and tidy condition upon departure. Excessive cleaning required due to negligence may incur additional charges.
+23. Any violation of local laws or engaging in illegal activities within the apartment premises will result in immediate eviction and may be reported to the relevant authorities.
+24. Guests are encouraged to conserve energy by turning off lights, appliances, and air conditioning when not in use.
+26. The number of occupants should not exceed the maximum capacity stated in the booking agreement, unless otherwise approved by the owner.
+27. Guests are responsible for their own insurance coverage, including personal liability and property insurance.
+28. The owner reserves the right to enter the apartment for necessary maintenance or inspection purposes with prior notice to the guests.
+29. Any changes to the reservation, including extending the stay or adding additional guests, should be communicated to the owner in advance and may be subject to additional fees.
+30. By booking and staying in the apartment, guests acknowledge and agree to abide by all the house rules and terms and conditions set forth by the owner or property management.
+
