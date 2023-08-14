@@ -5,8 +5,8 @@ The working guide
 ## Branches
 - main: deployed code (protected branch)
 - dev: merged code, not yet deployed (protected branch)
-- bug/bugName: bug fixes
-- feature/featureName: features
+- bug/bug_name: bug fixes
+- feature/feature_name: features
 
 <b>Create Release Tags when merging to main</b>
 
